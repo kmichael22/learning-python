@@ -1,1 +1,4 @@
 **/.ipynb_checkpoints
+.DS_Store
+git add .gitignore
+git commit -m '.DS_Store banished!'
